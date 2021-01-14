@@ -6,7 +6,7 @@ namespace git_workshop
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Lisa!");
         }
     }
 }
